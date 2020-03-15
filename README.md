@@ -1,1 +1,1 @@
-# examples-document-object-model
+# example-document-object-model
