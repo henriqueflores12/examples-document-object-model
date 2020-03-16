@@ -1,0 +1,82 @@
+body {
+  background-color: black;
+  color: blue;
+  display: grid;
+  justify-content: center;
+  font-size: xx-large;
+}
+#one {
+  border: whitesmoke solid 2px;
+  border-radius: 50px;
+  height: 200px;
+  width: 800px;
+}
+#one:hover {
+  background-color: yellow;
+}
+#two {
+  border: whitesmoke solid 2px;
+  border-radius: 50px;
+  height: 200px;
+  width: 800px;
+}
+#two:hover {
+  background-color: orange;
+}
+#three {
+  border: whitesmoke solid 2px;
+  border-radius: 50px;
+  height: 200px;
+  width: 800px;
+}
+#three:hover {
+  background-color: orchid;
+}
+#four {
+  border: whitesmoke solid 2px;
+  border-radius: 50px;
+  height: 200px;
+  width: 800px;
+}
+#four:hover {
+  background-color: purple;
+}
+li {
+  display: grid;
+  justify-content: center;
+}
+#header {
+  display: grid;
+  justify-content: center;
+}
+#header2 {
+  display: grid;
+  justify-content: center;
+}
+.cool:hover {
+  background-color: green;
+}
+.cool {
+  border: whitesmoke solid 2px;
+  border-radius: 50px;
+  height: 200px;
+  width: 800px;
+}
+h2 {
+  border-bottom: 2px solid red;
+  border-top: 2px solid royalblue;
+  border-left: 2px solid yellow;
+  border-right: 2px solid coral;
+}
+h2:hover {
+  background-color: whitesmoke;
+}
+h1 {
+  border-bottom: 2px solid red;
+  border-top: 2px solid royalblue;
+  border-left: 2px solid yellow;
+  border-right: 2px solid coral;
+}
+h1:hover {
+  background-color: violet;
+}
